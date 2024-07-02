@@ -1,2 +1,2 @@
-# Curso_em_video
+# Curso em vídeo
  Repositório teste para aprendizado
